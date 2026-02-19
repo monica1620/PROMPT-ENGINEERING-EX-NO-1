@@ -86,5 +86,7 @@ Step 7: Finalize and Export
 7.3 Prepare a brief presentation if required (optional)
 
 # Output:
+"C:\Users\SAMSUNG\Downloads\GenAI_Comprehensive_Report.docx"
 
 # Result:
+Experiment Results: Generative AI systems use Transformer-based architectures trained on large-scale datasets to produce novel content across text, image, audio, and code domains. Key findings confirm that scaling laws, RLHF alignment, and self-attention mechanisms are the foundational pillars driving modern LLM capabilities.
